@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T04:28:23.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SUDVYjX9nCtxQZnZ-zXi" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T04:28:50.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sUtPzPm1Z1-H_s0huLHc" version="20.8.21" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TSrVDf9FQaybQOhuNdKW-1" value="&lt;h1&gt;&lt;b&gt;Diagno Genie&lt;/b&gt;&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TSrVDf9FQaybQOhuNdKW-1" value="&lt;h1&gt;&lt;b&gt;Diagno &lt;font color=&quot;#ff0000&quot;&gt;G&lt;/font&gt;enie&lt;/b&gt;&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="440" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="3dF8oCnv1FuNLzT9bXhd-1" value="Doctors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
